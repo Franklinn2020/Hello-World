@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Frank's Web Page!</title>
+		Frank's Web Page!
 	</head>
 	<body>
 		<h1>Presidents</h1>
